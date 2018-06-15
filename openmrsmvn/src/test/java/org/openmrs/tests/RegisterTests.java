@@ -6,7 +6,9 @@ import org.openmrs.pages.LoginPage;
 import org.openmrs.pages.RegisterPage;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
+/*Modifed by tester1
 
+*/
 public class RegisterTests extends TestBaseClass{
 
 	@Parameters({"username","password"})
